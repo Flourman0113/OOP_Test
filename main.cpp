@@ -2,6 +2,7 @@
 
 int main(){
     Cylinder c;
+    bool i_am_gay = false;
 
     cin >> c;
     cout<< c;
